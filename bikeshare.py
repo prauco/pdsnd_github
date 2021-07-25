@@ -200,8 +200,8 @@ def main():
         df = load_data(city, month, day)
 
          # TO DO: Implement a logic that interacts with the user and asks for the statistics he/she wants to display
-        step_1 = input('\nWould you like to display statistics on the most frequent times of travel? Enter yes or no.\n')
-        if step_1.lower() == 'yes':
+        step_one = input('\nWould you like to display statistics on the most frequent times of travel? Enter yes or no.\n')
+        if step_one.lower() == 'yes':
             time_stats(df)
         step_2 = input('\nWould you like to display statistics on the most popular stations and trip? Enter yes or no.\n')
         if step_2.lower() == 'yes':
