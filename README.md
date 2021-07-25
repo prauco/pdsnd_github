@@ -11,4 +11,4 @@ With this project, I'll be simulating a realistic workflow to refactor my previo
 bikeshare.py - chicago.cvs - new_york_city.cvs - washington.cvs   
 
 ### Credits
-Udacity lessons on Introduction to Version Control
+Udacity lessons on Introduction to Version Control: https://classroom.udacity.com/nanodegrees/nd104/parts/912d84b6-bf81-4311-8e00-b3b2f63dc965
