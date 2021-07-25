@@ -2,7 +2,7 @@
 July 25, 2021
 
 ### Project Title
-Project 3: Post your Work on GitHub
+Project Three: Post your Work on GitHub
 
 ### Description
 With this project, I'll be simulating a realistic workflow to refactor my previous BikeShare project using Git.
