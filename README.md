@@ -1,5 +1,5 @@
 ### Date created
-July 25, 2021
+2021-07-25
 
 ### Project Title
 Project Three: Post your Work on GitHub
